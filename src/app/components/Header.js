@@ -127,7 +127,7 @@ export default function Header() {
             Why us
           </Link>
           <Link
-            to="testimonials"
+            to="testimonial"
             className="cursor-pointer"
             activeClass="active"
             smooth={desktopMode}
