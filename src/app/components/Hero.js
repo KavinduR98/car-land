@@ -80,8 +80,8 @@ export default function Hero() {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.6 }}
-            className="relative w-full h-full max-h-[50vh] md:max-w-[70vw] xl:max-w-[860px] xl:max-h-[542px] 
-          xl:absolute xl:-right-[20px] min-[1680px]:right-[120px] xl:top-40px"
+            className="relative w-full h-full max-h-[50vh] md:max-w-[70vw] xl:max-w-[750px] xl:max-h-[400px] 
+          xl:absolute xl:-right-[5px] min-[1680px]:right-[120px] xl:top-40px"
           >
             <Image
               src={"/images/hero/car.svg"}
