@@ -3,24 +3,31 @@
 @tailwind utilities;
 
 /* date range styles */
-.rdrDayToday:not(.rdrDayPassive) .rdrInRange ~ .rdrDayNumber span::after,
-.rdrDayToday:not(.rdrDayPassive) .rdrStartEdge ~ .rdrDayNumber span::after,
-.rdrDayToday:not(.rdrDayPassive) .rdrEndEdge ~ .rdrDayNumber span::after,
-.rdrDayToday:not(.rdrDayPassive) .rdrSelected ~ .rdrDayNumber span::after {
+.rdrDayToday:not(.rdrDayPassive) .rdrInRange~.rdrDayNumber span::after,
+.rdrDayToday:not(.rdrDayPassive) .rdrStartEdge~.rdrDayNumber span::after,
+.rdrDayToday:not(.rdrDayPassive) .rdrEndEdge~.rdrDayNumber span::after,
+.rdrDayToday:not(.rdrDayPassive) .rdrSelected~.rdrDayNumber span::after {
   background-color: #fff !important;
 }
 
-.rdrDayToday .rdrDayNumber span:after{
+.rdrDayToday .rdrDayNumber span:after {
   background: #ed1d24 !important;
 }
 
-.rdrMonthAndYearPickers{
+.rdrMonthAndYearPickers {
   font-size: 16px;
 }
 
-.rdrDayNumber, .rdrWeekDay{
+.rdrDayNumber,
+.rdrWeekDay {
   color: #1e1f23 !important;
   font-weight: 500 !important;
+}
+
+/* swiper styles */
+.swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullet {
+  background-color: #f13024;
 }
 
 @layer base {
