@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Deployment Link : https://car-land-website-ush.vercel.app/
 
-## Getting Started
+## Project screenshots :
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![home](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/9eee1f7e-da57-4e52-b336-cd38ff9ed14a)
+![cars](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/3cfd8a17-3ea1-4e62-9ec7-80e8480eca80)
+![about](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/be07d911-9fc2-40b2-af91-170257886b73)
+![why](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/3e4af559-9181-463f-87e4-7f33223a0679)
+![testimonials](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/d6fa41aa-b8e5-4289-b8ad-da7b093e63c1)
+![contact](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/f87d6096-81fd-46d0-a911-a2185eb419d3)
+![footer](https://github.com/KavinduR98/Car-Land-Website/assets/88982954/859f6a89-5a74-491a-85b3-a71a649facbe)
